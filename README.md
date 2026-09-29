@@ -1,7 +1,5 @@
 # Multi-Agent Legal Reasoning with GraphRAG
 
-**Rishit Belani & Sushmita Korishetty — Columbia University, Spring 2026**
-
 ## Overview
 
 This project investigates whether combining **multi-agent LLM collaboration**
@@ -324,10 +322,3 @@ Two complementary classifications are produced:
 | `LLM_MODEL`            | `claude-haiku-4-5-20251001`   | Anthropic model                          |
 
 ---
-
-## Citation
-
-```
-Belani, R. & Korishetty, S. (2026). Multi-Agent Legal Reasoning with GraphRAG.
-Columbia University IEOR / GenAI Course Project, Spring 2026.
-```
